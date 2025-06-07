@@ -1,7 +1,7 @@
 # Sparx Helper 🚀
 
 An advanced, AI-powered helper script designed to automate reading comprehension tasks on the Sparx platform. It features a sleek, customizable user interface, manual and fully automatic modes, and leverages the Google Gemini API for intelligent question answering.
-
+If you want new updates join here https://discord.gg/Dt3M5Y33
 ![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Status](https://img.shields.io/badge/Status-Active-4C1?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)

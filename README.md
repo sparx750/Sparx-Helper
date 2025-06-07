@@ -1,6 +1,6 @@
 # Sparx Helper 🚀
 
-An advanced, AI-powered helper script designed to automate reading comprehension tasks on the Sparx platform. It features a sleek, customizable user interface, manual and fully automatic modes, and leverages the Google Gemini API for intelligent question answering. If you want new updates join here https://discord.gg/Dt3M5Y33
+An advanced, AI-powered helper script designed to automate reading comprehension tasks on the Sparx platform. It features a sleek, customizable user interface, manual and fully automatic modes, and leverages the Google Gemini API for intelligent question answering.
 ![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Status](https://img.shields.io/badge/Status-Active-4C1?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
@@ -104,3 +104,4 @@ The settings panel allows for further customization.
 *   **Website Changes**: This script relies on specific selectors and text on the Sparx website (e.g., `button.sr_...`, "Start reading here"). If Sparx updates its website, the script may break. It may require updates to the selectors in the code to function again.
 *   **Authorized Users**: The script has a hardcoded list of names (Jack Sigma, Alex yenzab etc) it checks for on the page before running. If none of these names are present, it will display an "Access Denied" message.
 So this is what  you may need to do go to content.js and go to line 238 where you have to put your full name. TO GET ACESS.
+If you want new updates join here https://discord.gg/Dt3M5Y33

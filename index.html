@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sparx Helper Settings</title>
+    <link rel="stylesheet" href="options.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>⚙️ Sparx Helper Settings</h1>
+            <p>Your settings are saved automatically and synced across your devices.</p>
+        </header>
+
+        <main>
+            <div class="setting-item">
+                <label for="api-key">Google Gemini API Key</label>
+                <input type="password" id="api-key" placeholder="Enter your API key here">
+                <button id="save-button">Save Key</button>
+            </div>
+            <div id="status-message"></div>
+        </main>
+
+        <footer>
+            <p>Get your free API key from <a href="https://aistudio.google.com/app/apikey" target="_blank">Google AI Studio</a>.</p>
+        </footer>
+    </div>
+    <script src="options.js"></script>
+</body>
+</html>

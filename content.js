@@ -235,7 +235,7 @@
     function checkAccess() {
         const pageContent = document.body.innerText;
         // --- ADDED "Sayid Baana" ---
-        const authorizedUsers = ['Preejan Piratheeparajah', 'Kiyan Naqvi', 'Sayid Baana', 'Eshan Fofana'];
+        const authorizedUsers = ['YOUR NAME','FRIEND NAME','FRIEND NAME];
         return authorizedUsers.some(user => pageContent.includes(user));
     }
 

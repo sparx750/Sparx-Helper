@@ -103,4 +103,5 @@ The settings panel allows for further customization.
     ```
 *   **Academic Integrity**: This tool is a proof-of-concept and is intended for educational purposes only. Using this script to cheat on assignments is a violation of academic integrity policies and is strongly discouraged.
 *   **Website Changes**: This script relies on specific selectors and text on the Sparx website (e.g., `button.sr_...`, "Start reading here"). If Sparx updates its website, the script may break. It may require updates to the selectors in the code to function again.
-*   **Authorized Users**: The script has a hardcoded list of names (Jack Sigma, Alex yenza) it checks for on the page before running. If none of these names are present, it will display an "Access Denied" message.
+*   **Authorized Users**: The script has a hardcoded list of names (Jack Sigma, Alex yenzab etc) it checks for on the page before running. If none of these names are present, it will display an "Access Denied" message.
+So this is what  you may need to do go to content.js and go to line 238 where you have to put your full name. TO GET ACESS.
